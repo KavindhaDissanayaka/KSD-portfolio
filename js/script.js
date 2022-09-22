@@ -23,4 +23,3 @@ window.onscroll = () => {
 
  sr.reveal('.home-text',{delay:200, origin:'left'})
  sr.reveal('.home-img',{delay:100, origin:'right'})
- sr.reveal('.sub-service, .about,.portfolio,.service,.contact',{delay:200, origin:'bottom'})
